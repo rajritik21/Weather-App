@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rajritik21/Weather-App/static/css/main.e6c13ad2.css",
+    "main.js": "/rajritik21/Weather-App/static/js/main.02b8e7ed.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/rajritik21/Weather-App/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/img.jpg": "/rajritik21/Weather-App/static/media/img.2762b6d8f4d3596d145c.jpg",
+    "index.html": "/rajritik21/Weather-App/index.html",
+    "main.e6c13ad2.css.map": "/rajritik21/Weather-App/static/css/main.e6c13ad2.css.map",
+    "main.02b8e7ed.js.map": "/rajritik21/Weather-App/static/js/main.02b8e7ed.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/rajritik21/Weather-App/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.02b8e7ed.js"
+  ]
+}
